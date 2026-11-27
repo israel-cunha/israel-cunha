@@ -1,23 +1,45 @@
-<!-- Neste tipo de arquivo as instruções de HTML e MarkDown funcionam, então, use e abuse do que você sabe de DEVWEB. !-->
-<div align=center>
-  <h1>Hi! I am Israel Coelho, a flutter developer!</h1>
-</div>
-<!-- 
-adiciona um bla bla bla aqui, bota uma imagem ou sla, é contigo.Vou deixar o link do meu perfil e o do Ruan pra tu dar uma olhada e se inspirar. https://github.com/ruanpereira
-https://github.com/BPalhano 
---!>
+# Hi, I'm Israel Coelho 👋
 
+**Software Developer | Telecommunications Engineer**
 
-<div align=center>
-    <img src="https://skillicons.dev/icons?i=ruby,github,cpp,py,flutter,blender,rails&perline=10">
+I'm a software developer with a background in Telecommunications Engineering from the Federal University of Ceará (UFC), graduated in 2026.
 
-</div>
+I enjoy building applications, solving engineering problems, and exploring the intersection between software development and technology.
 
-<div align="center">  
-  <h3>Some social media for networking:
-</h3>
-  <a href = "mailto:israelcoelhocunhaccc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-<!-- <a href="https://www.linkedin.com/in/igor-palhano-81102622a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> --!>
-<!-- Bota o insta tbm -->
+I'm currently focusing on **JavaScript, React, and Flutter**, while continuing to develop my software engineering foundations.
 
-</div>
+### 🛠️ Technologies & Tools
+
+**Languages**
+- JavaScript
+- Dart
+- Python
+- Java
+- C++
+
+**Frameworks & Tools**
+- React
+- Flutter
+- Git & GitHub
+- Tailwind CSS
+
+### 🚀 Featured Projects
+
+**[RPG Companion](https://github.com/IsraelCoeio/rpg-companion)**  
+A mobile-first web application built with React and JavaScript, exploring application architecture, state management, and responsive interfaces.
+
+**[Rose for Mary](https://github.com/IsraelCoeio/rose-4-mary)**  
+A Flutter application designed to help Christians pray the Rosary.
+
+**[BookingApp](https://github.com/IsraelCoeio/BookingApp)**  
+A Java application developed to explore object-oriented programming concepts, including inheritance, abstraction, interfaces, and polymorphism.
+
+### 🎓 Background
+
+- B.Sc. in Telecommunications Engineering — Federal University of Ceará (UFC), 2026.
+- Research experience in digital signal processing and wireless communications.
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/israel-coelho-b77754184/)
+- [GitHub](https://github.com/IsraelCoeio)
