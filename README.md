@@ -1,4 +1,4 @@
-# Hi, I'm Israel Coêlho 👋
+# Hi, I'm Israel Cunha 👋
 
 ## About Me
 
