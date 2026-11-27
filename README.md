@@ -1,12 +1,14 @@
 # Hi, I'm Israel Cunha 👋
 
-## About Me
+I'm a **Junior Software Developer** and **Telecommunications Engineer** from Brazil.
 
-I'm a **Junior Software Developer** and **Telecommunications Engineer** from Brazil, interested in building useful applications and solving problems through software.
+I thrive in projects that challenge me to learn new technologies, grow as a developer, and, most importantly, create something meaningful. There's something deeply rewarding about knowing that what I build can make someone's day a little better — and maybe become part of their reason to smile.
 
-I enjoy exploring different technologies, developing web and mobile applications, and continuously improving my software engineering skills.
+> "Do everything for Love. Thus there will be no little things: everything will be big."
+>
+> — **Saint Josemaría Escrivá**
 
-## Languages & Technologies
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
@@ -25,13 +27,9 @@ I enjoy exploring different technologies, developing web and mobile applications
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" alt="Tailwind CSS" />
 </p>
 
-## GitHub Statistics
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=israel-cunha&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 </p>
-
-## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/israel-cunha-b77754184/">
